@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/adrianblynch/random4",
   "devDependencies": {
-    "mocha": "^1.21.0"
+    "mocha": "^1.21.0",
+    "should": "^4.0.4"
   }
 }
