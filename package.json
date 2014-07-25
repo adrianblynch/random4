@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/adrianblynch/random4/issues"
   },
-  "homepage": "https://github.com/adrianblynch/random4"
+  "homepage": "https://github.com/adrianblynch/random4",
+  "devDependencies": {
+    "mocha": "^1.21.0"
+  }
 }
