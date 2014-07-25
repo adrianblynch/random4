@@ -1,0 +1,24 @@
+{
+  "name": "random4",
+  "version": "1.0.0",
+  "description": "Gives you what you need, a randomly generated number",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/adrianblynch/random4"
+  },
+  "keywords": [
+    "random",
+    "number",
+    "four"
+  ],
+  "author": "Adrian Lynch",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/adrianblynch/random4/issues"
+  },
+  "homepage": "https://github.com/adrianblynch/random4"
+}
