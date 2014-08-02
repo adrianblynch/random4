@@ -1,6 +1,6 @@
 {
   "name": "random4",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Gives you what you need, a randomly generated number",
   "main": "index.js",
   "scripts": {
